@@ -1,0 +1,13 @@
+{
+    "firstName": "Jorge",
+    "lastName": "Taco",
+    "preferredName": "Taco-Man",
+    "email": "Taco-Man@superhero.com",
+    "phoneNumber": "1800-TACO",
+    "city": "Tacoville",
+    "state": "unknown",
+    "zip": "NA",
+    "lat": "90.73",
+    "lng": "-80.17",
+    "favoriteHobby": "making tacos"
+}
