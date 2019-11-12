@@ -9,5 +9,7 @@
     "zip": "NA",
     "lat": "90.73",
     "lng": "-80.17",
-    "favoriteHobby": "making tacos"
+    "favoriteHobby": "making tacos",
+    "seatLocation" : "na"
+    
 }
